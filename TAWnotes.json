@@ -1,69 +1,81 @@
 {
   "groups": [
     {
-      "label": "TAW Tracker",
+      "label": "The Artist's Way – Weekly Trackers",
       "notes": [
         {
-          "title": "WEEK 1 \u2013 Recovering a Sense of Safety",
-          "tag": "tracker",
-          "content": "# WEEK 1 \u2013 Recovering a Sense of Safety\n\n- [ ] \ud83d\udcda Read the chapter (or ADHD-summary \ud83d\ude05)\n- [ ] \ud83d\udcdd Morning Pages\n- [ ] \ud83d\udcac Blurt Work + Affirmations\n- [ ] \ud83c\udfa8 Artist Date\n- [ ] \ud83e\udde0 Chapter Tasks or Realizations"
+          "title": "WEEK 1",
+          "subtitle": "Recovering a Sense of Safety",
+          "tag": "taw",
+          "content": "### 📚 Chapter Reading\n- [ ] Day 1\n- [ ] Day 2\n- [ ] Day 3\n- [ ] Day 4\n- [ ] Day 5\n- [ ] Day 6\n- [ ] Day 7\n\n### 📝 Morning Pages\n- [ ] Day 1\n- [ ] Day 2\n- [ ] Day 3\n- [ ] Day 4\n- [ ] Day 5\n- [ ] Day 6\n- [ ] Day 7\n\n### 💬 Blurts + Affirmations\n- [ ] Day 1\n- [ ] Day 2\n- [ ] Day 3\n- [ ] Day 4\n- [ ] Day 5\n- [ ] Day 6\n- [ ] Day 7\n\n### 🎨 Artist Date\n- [ ] Did you take yourself on an Artist Date this week?\n\n### 🧠 Chapter Tasks\n- [ ] Did you do (at least one) of the weekly tasks or feel a shift?"
         },
         {
-          "title": "WEEK 2 \u2013 Recovering a Sense of Identity",
-          "tag": "tracker",
-          "content": "# WEEK 2 \u2013 Recovering a Sense of Identity\n\n- [ ] \ud83d\udcda Read the chapter (or ADHD-summary \ud83d\ude05)\n- [ ] \ud83d\udcdd Morning Pages\n- [ ] \ud83d\udcac Blurt Work + Affirmations\n- [ ] \ud83c\udfa8 Artist Date\n- [ ] \ud83e\udde0 Chapter Tasks or Realizations"
+          "title": "WEEK 2",
+          "subtitle": "Recovering a Sense of Identity",
+          "tag": "taw",
+          "content": "### 📚 Chapter Reading\n- [ ] Day 1\n- [ ] Day 2\n- [ ] Day 3\n- [ ] Day 4\n- [ ] Day 5\n- [ ] Day 6\n- [ ] Day 7\n\n### 📝 Morning Pages\n- [ ] Day 1\n- [ ] Day 2\n- [ ] Day 3\n- [ ] Day 4\n- [ ] Day 5\n- [ ] Day 6\n- [ ] Day 7\n\n### 💬 Blurts + Affirmations\n- [ ] Day 1\n- [ ] Day 2\n- [ ] Day 3\n- [ ] Day 4\n- [ ] Day 5\n- [ ] Day 6\n- [ ] Day 7\n\n### 🎨 Artist Date\n- [ ] Did you take yourself on an Artist Date this week?\n\n### 🧠 Chapter Tasks\n- [ ] Did you do (at least one) of the weekly tasks or feel a shift?"
         },
         {
-          "title": "WEEK 3 \u2013 Recovering a Sense of Power",
-          "tag": "tracker",
-          "content": "# WEEK 3 \u2013 Recovering a Sense of Power\n\n- [ ] \ud83d\udcda Read the chapter (or ADHD-summary \ud83d\ude05)\n- [ ] \ud83d\udcdd Morning Pages\n- [ ] \ud83d\udcac Blurt Work + Affirmations\n- [ ] \ud83c\udfa8 Artist Date\n- [ ] \ud83e\udde0 Chapter Tasks or Realizations"
+          "title": "WEEK 3",
+          "subtitle": "Recovering a Sense of Power",
+          "tag": "taw",
+          "content": "..."
         },
         {
-          "title": "WEEK 4 \u2013 Recovering a Sense of Integrity",
-          "tag": "tracker",
-          "content": "# WEEK 4 \u2013 Recovering a Sense of Integrity\n\n- [ ] \ud83d\udcda Read the chapter (or ADHD-summary \ud83d\ude05)\n- [ ] \ud83d\udcdd Morning Pages\n- [ ] \ud83d\udcac Blurt Work + Affirmations\n- [ ] \ud83c\udfa8 Artist Date\n- [ ] \ud83e\udde0 Chapter Tasks or Realizations"
+          "title": "WEEK 4",
+          "subtitle": "Recovering a Sense of Integrity",
+          "tag": "taw",
+          "content": "..."
         },
         {
-          "title": "WEEK 5 \u2013 Recovering a Sense of Possibility",
-          "tag": "tracker",
-          "content": "# WEEK 5 \u2013 Recovering a Sense of Possibility\n\n- [ ] \ud83d\udcda Read the chapter (or ADHD-summary \ud83d\ude05)\n- [ ] \ud83d\udcdd Morning Pages\n- [ ] \ud83d\udcac Blurt Work + Affirmations\n- [ ] \ud83c\udfa8 Artist Date\n- [ ] \ud83e\udde0 Chapter Tasks or Realizations"
+          "title": "WEEK 5",
+          "subtitle": "Recovering a Sense of Possibility",
+          "tag": "taw",
+          "content": "..."
         },
         {
-          "title": "WEEK 6 \u2013 Recovering a Sense of Abundance",
-          "tag": "tracker",
-          "content": "# WEEK 6 \u2013 Recovering a Sense of Abundance\n\n- [ ] \ud83d\udcda Read the chapter (or ADHD-summary \ud83d\ude05)\n- [ ] \ud83d\udcdd Morning Pages\n- [ ] \ud83d\udcac Blurt Work + Affirmations\n- [ ] \ud83c\udfa8 Artist Date\n- [ ] \ud83e\udde0 Chapter Tasks or Realizations"
+          "title": "WEEK 6",
+          "subtitle": "Recovering a Sense of Abundance",
+          "tag": "taw",
+          "content": "..."
         },
         {
-          "title": "WEEK 7 \u2013 Recovering a Sense of Connection",
-          "tag": "tracker",
-          "content": "# WEEK 7 \u2013 Recovering a Sense of Connection\n\n- [ ] \ud83d\udcda Read the chapter (or ADHD-summary \ud83d\ude05)\n- [ ] \ud83d\udcdd Morning Pages\n- [ ] \ud83d\udcac Blurt Work + Affirmations\n- [ ] \ud83c\udfa8 Artist Date\n- [ ] \ud83e\udde0 Chapter Tasks or Realizations"
+          "title": "WEEK 7",
+          "subtitle": "Recovering a Sense of Connection",
+          "tag": "taw",
+          "content": "..."
         },
         {
-          "title": "WEEK 8 \u2013 Recovering a Sense of Strength",
-          "tag": "tracker",
-          "content": "# WEEK 8 \u2013 Recovering a Sense of Strength\n\n- [ ] \ud83d\udcda Read the chapter (or ADHD-summary \ud83d\ude05)\n- [ ] \ud83d\udcdd Morning Pages\n- [ ] \ud83d\udcac Blurt Work + Affirmations\n- [ ] \ud83c\udfa8 Artist Date\n- [ ] \ud83e\udde0 Chapter Tasks or Realizations"
+          "title": "WEEK 8",
+          "subtitle": "Recovering a Sense of Strength",
+          "tag": "taw",
+          "content": "..."
         },
         {
-          "title": "WEEK 9 \u2013 Recovering a Sense of Compassion",
-          "tag": "tracker",
-          "content": "# WEEK 9 \u2013 Recovering a Sense of Compassion\n\n- [ ] \ud83d\udcda Read the chapter (or ADHD-summary \ud83d\ude05)\n- [ ] \ud83d\udcdd Morning Pages\n- [ ] \ud83d\udcac Blurt Work + Affirmations\n- [ ] \ud83c\udfa8 Artist Date\n- [ ] \ud83e\udde0 Chapter Tasks or Realizations"
+          "title": "WEEK 9",
+          "subtitle": "Recovering a Sense of Compassion",
+          "tag": "taw",
+          "content": "..."
         },
         {
-          "title": "WEEK 10 \u2013 Recovering a Sense of Self-Protection",
-          "tag": "tracker",
-          "content": "# WEEK 10 \u2013 Recovering a Sense of Self-Protection\n\n- [ ] \ud83d\udcda Read the chapter (or ADHD-summary \ud83d\ude05)\n- [ ] \ud83d\udcdd Morning Pages\n- [ ] \ud83d\udcac Blurt Work + Affirmations\n- [ ] \ud83c\udfa8 Artist Date\n- [ ] \ud83e\udde0 Chapter Tasks or Realizations"
+          "title": "WEEK 10",
+          "subtitle": "Recovering a Sense of Self-Protection",
+          "tag": "taw",
+          "content": "..."
         },
         {
-          "title": "WEEK 11 \u2013 Recovering a Sense of Autonomy",
-          "tag": "tracker",
-          "content": "# WEEK 11 \u2013 Recovering a Sense of Autonomy\n\n- [ ] \ud83d\udcda Read the chapter (or ADHD-summary \ud83d\ude05)\n- [ ] \ud83d\udcdd Morning Pages\n- [ ] \ud83d\udcac Blurt Work + Affirmations\n- [ ] \ud83c\udfa8 Artist Date\n- [ ] \ud83e\udde0 Chapter Tasks or Realizations"
+          "title": "WEEK 11",
+          "subtitle": "Recovering a Sense of Autonomy",
+          "tag": "taw",
+          "content": "..."
         },
         {
-          "title": "WEEK 12 \u2013 Recovering a Sense of Faith",
-          "tag": "tracker",
-          "content": "# WEEK 12 \u2013 Recovering a Sense of Faith\n\n- [ ] \ud83d\udcda Read the chapter (or ADHD-summary \ud83d\ude05)\n- [ ] \ud83d\udcdd Morning Pages\n- [ ] \ud83d\udcac Blurt Work + Affirmations\n- [ ] \ud83c\udfa8 Artist Date\n- [ ] \ud83e\udde0 Chapter Tasks or Realizations"
+          "title": "WEEK 12",
+          "subtitle": "Recovering a Sense of Faith",
+          "tag": "taw",
+          "content": "..."
         }
       ]
     }
   ]
-}
+} 
